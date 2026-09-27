@@ -1,6 +1,6 @@
 # Hi, I'm Danish 👋
 
-I'm a computer engineering student at **NYU Tandon**. I build computer vision systems for real cameras, unreliable networks, and busy streets—and tools for the things I enjoy, from chess to drawing.
+I'm a computer engineering student at **NYU**. I build computer vision systems for real cameras, unreliable networks, and busy streets—and tools for the things I enjoy, from chess to drawing.
 
 ### Selected work
 
