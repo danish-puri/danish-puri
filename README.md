@@ -19,4 +19,4 @@ Python · JavaScript · Swift · PyTorch · OpenCV · FastAPI · SQLite · Docke
 
 ### Get in touch
 
-[Website](https://www.danishpuri.com.np) · [LinkedIn](https://www.linkedin.com/in/danishpuri/) · [dp3858@nyu.edu](mailto:dp3858@nyu.edu)
+[LinkedIn](https://www.linkedin.com/in/danishpuri/) · [dp3858@nyu.edu](mailto:dp3858@nyu.edu)
